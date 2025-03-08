@@ -4,7 +4,7 @@ let allMusic = [
         id:"m1",
         artist: "Shivjayanthi Songs",
         img: "https://omshantimusic.s3.amazonaws.com/upload/photos/2022/02/sl1cTF69zPI1OJiqpDLR_24_c8192170f6c150d1ebce70d242fa4e7b_image.jpg",
-        src: "https://s3.ap-southeast-1.wasabisys.com/omshantimusic/upload/audio/2021/08/Bai2TkVg8OslLGlwuBfu_17_280e8c971f7e25b3ab129241c9394ce8_audio.mp3"
+        src: "https://www.bkdrluhar.com/071.%20Audio%20Section/03.%20Hindi%20Audio%20Volumes/9000-3-Gito%20Ke%20Rang%20Baba%20Ke%20Sang%20-%20Part%20-3/293-Swagatam%20shiv%20ke%20ratno%20ka.mp3"
 
         
     },
